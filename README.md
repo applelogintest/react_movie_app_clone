@@ -69,4 +69,3 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
 =======
 # react_movie_app_clone
->>>>>>> e8f311eed5febdd6dd43459da503e9e256c6fd6c
